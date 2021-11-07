@@ -3,6 +3,19 @@ It's an assignment for the job
 
 # Screenshots
 
+Desktop
+
+![image](https://github.com/Kuldeep-Kumar-Sharma/assignment/blob/master/screenshots/localhost-desktop.png)
+
+
+Mobile
+![image](https://github.com/Kuldeep-Kumar-Sharma/assignment/blob/master/screenshots/mobile-localhost.png)
+
+
+Popup with Desktop
+![image](https://github.com/Kuldeep-Kumar-Sharma/assignment/blob/master/screenshots/popup-desktop.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
