@@ -32,3 +32,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### Warning for replication and images
+
+Images used here for only for samples nothing for commercial/production use, any concerns please contact developer to remove.
