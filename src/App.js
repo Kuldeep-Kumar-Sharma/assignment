@@ -49,6 +49,7 @@ function App() {
                   <Image src={Images(`./${item.image}`).default} alt="" />
                   <CardContent>
                     <CardTitle>{item.title}</CardTitle>
+                    <CardDate>{item.publised}</CardDate>
                     <CardText>{item.intro}</CardText>
                   </CardContent>
                   <Button
@@ -72,17 +73,7 @@ function App() {
 const Header = styled.div`
   padding: 5px;
   text-align: center;
-  background: #396afc; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
-    to right,
-    #2948ff,
-    #396afc
-  ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
-    to right,
-    #2948ff,
-    #396afc
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #0fa0d9; /* fallback for old browsers */
   color: white;
   font-size: 10px;
 `;
@@ -111,16 +102,27 @@ const Card = styled.div`
 
 const CardTitle = styled.p`
   color: #696969;
-  font-size: 1.25rem;
-  font-weight: 300;
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+`;
+
+const CardDate = styled.p`
+  color: #696969;
+  font-family: "Lato", sans-serif;
+  font-size: 11px;
+  font-weight: regular;
   letter-spacing: 2px;
   text-transform: uppercase;
 `;
 
 const CardText = styled.p`
   flex: 1 1 auto;
-  font-size: 0.875rem;
-  line-height: 1.5;
+  font-size: 13px;
+  font-family: "Lato", sans-serif;
+  font-weight: regular;
   margin-bottom: 1.25rem;
 `;
 
@@ -170,10 +172,10 @@ const Image = styled.img`
 `;
 
 const Button = styled.button`
-  background-color: white;
+  background-color: #0d6e94;
   border: 1px solid #cccccc;
   margin: 2%;
-  color: #696969;
+  color: white;
   padding: 0.5rem;
   text-transform: camelcase;
   display: block;
