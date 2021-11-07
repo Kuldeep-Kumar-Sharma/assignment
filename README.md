@@ -5,15 +5,15 @@ It's an assignment for the job
 
 Desktop
 
-![image](https://github.com/Kuldeep-Kumar-Sharma/assignment/blob/master/screenshots/localhost-desktop.png)
+![image](https://github.com/Kuldeep-Kumar-Sharma/assignment/blob/master/screenshot/localhost-desktop.png)
 
 
 Mobile
-![image](https://github.com/Kuldeep-Kumar-Sharma/assignment/blob/master/screenshots/mobile-localhost.png)
+![image](https://github.com/Kuldeep-Kumar-Sharma/assignment/blob/master/screenshot/mobile-localhost.png)
 
 
 Popup with Desktop
-![image](https://github.com/Kuldeep-Kumar-Sharma/assignment/blob/master/screenshots/popup-desktop.png)
+![image](https://github.com/Kuldeep-Kumar-Sharma/assignment/blob/master/screenshot/popup-desktop.png)
 
 
 # Getting Started with Create React App
