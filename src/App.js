@@ -2,7 +2,7 @@ import { useState } from "react";
 import styled from "styled-components";
 import data from "./assets/data.json";
 import addBanner from "./assets/sampleAdd.png";
-
+import logo from "./assets/logo.svg";
 //MARK -->Components
 import CardModal from "./components/Modal";
 const Images = require.context("./assets/images", true);
@@ -30,6 +30,7 @@ function App() {
   return (
     <>
       <Header>
+        <Logo src={logo} alt="logo" />
         <h1>{data.title}</h1>
       </Header>
       <CardModal
@@ -70,12 +71,20 @@ function App() {
   );
 }
 
+const Logo = styled.img`
+  width: 30px;
+  margin-top: 12 px;
+  margin-right: 10px;
+  display: inline;
+`;
+
 const Header = styled.div`
   padding: 5px;
   text-align: center;
   background: #0fa0d9; /* fallback for old browsers */
   color: white;
   font-size: 10px;
+  display: flex;
 `;
 
 const Gallery = styled.ul`
