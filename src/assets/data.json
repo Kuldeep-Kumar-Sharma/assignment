@@ -1,0 +1,63 @@
+{ 
+    "title" : "Platform website title",
+    "logo" : "logo.svg",
+    "items" : [
+        {
+            "id": "1234",
+            "title": "Etiam volutpat tellus non fringilla",
+            "intro" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur metus turpis, sed faucibus justo placerat nec. Nunc sed ligula eu purus luctus ultricies.",
+            "fullText" : "<p> In malesuada ullamcorper nisi vel eleifend. Mauris ac molestie ante. Morbi id lorem consectetur, porta ex sed, pharetra dui. Integer dictum dui augue. Aliquam erat volutpat. Etiam rutrum nec elit at placerat. Duis sollicitudin mi non dui ullamcorper, id fermentum mauris malesuada. Donec nisl arcu, molestie vel sodales ac, placerat eu ipsum. Curabitur condimentum neque aliquam, mollis est sed, facilisis quam. Curabitur eu molestie elit. Morbi convallis justo felis, eget viverra urna rutrum posuere. Sed facilisis placerat nisi, id malesuada augue semper nec. Quisque non sollicitudin justo. Suspendisse eu commodo arcu. Phasellus libero sapien, ultrices sit amet nunc vitae, vulputate bibendum nunc.</p><p>Vestibulum aliquam elit nibh, et dictum libero mollis a. Integer nunc tortor, vehicula quis est sed, commodo laoreet erat. Aliquam erat volutpat. Maecenas maximus convallis urna eget eleifend. Morbi in ipsum convallis, molestie neque at, interdum mi. Nulla facilisi. Vestibulum at odio et urna condimentum ornare. Aliquam erat volutpat. Aenean sollicitudin eu nisl nec sollicitudin. Nam maximus viverra commodo. Duis rhoncus mollis est nec tempus. Nulla bibendum libero a magna porta ultrices. Morbi sed tortor viverra, condimentum lorem quis, suscipit enim. Sed id massa suscipit, faucibus orci id, bibendum sapien. Nullam sodales commodo sem quis ultrices. Mauris id nisi ornare, iaculis tellus eu, scelerisque risus.</p>",
+            "image": "001.jpg",
+            "publised": "2021-07-17 09:11:00"
+        },
+        {
+            "id": "1235",
+            "title": "In hac habitasse platea dictumst. Nam vitae egestas nunc.",
+            "intro" : "Suspendisse ac quam fringilla, condimentum neque non, rutrum sem. Morbi ullamcorper nisi aliquet est elementum aliquam. Quisque sed ex.",
+            "fullText" : "<p>Nulla commodo magna lectus, eget luctus mauris volutpat hendrerit. Integer et quam vehicula, lacinia massa at, fermentum nisi. Praesent at elementum enim. Quisque maximus feugiat nisl sed ultricies. Maecenas auctor sagittis turpis ut blandit. Pellentesque molestie neque quis cursus iaculis. Cras aliquam et tortor a posuere. Nulla sollicitudin nunc in quam viverra, sed rhoncus quam volutpat. Fusce quis leo vulputate, aliquam ipsum in, maximus massa. Phasellus a risus eget elit tincidunt ornare. Suspendisse mattis vestibulum dui in euismod. Nam nec facilisis quam. Vivamus vel venenatis ligula. Mauris tempus dolor nunc, at volutpat mi elementum a. Nullam blandit urna felis, vel varius metus eleifend in. </p><p>Vivamus et erat massa. Proin risus arcu, tempor ac consectetur in, scelerisque nec magna. Pellentesque finibus augue sed dui euismod, vel semper nisl imperdiet. Aenean at fringilla enim. Suspendisse ante libero, lobortis id ante at, gravida efficitur nibh. Vestibulum lacinia, leo nec pharetra ullamcorper, lorem purus rutrum leo, sit amet imperdiet arcu orci quis augue. Nunc suscipit blandit erat, at pulvinar metus aliquet sit amet. Sed euismod posuere ipsum euismod pulvinar. Sed quam purus, faucibus vitae viverra at, pulvinar vel justo. Ut ac nibh ut lectus congue hendrerit et sit amet ex. Quisque mollis a ligula consequat tempor. Proin vestibulum tempus porta. Phasellus ut nisi non ex pulvinar sagittis a sit amet diam. Maecenas convallis nulla at ex tempor pretium vitae eu felis. </p>",
+            "image": "002.jpg",
+            "publised": "2021-07-17 11:12:00"
+        },
+        {
+            "id": "1236",
+            "title": "Nam porttitor cursus blandit.",
+            "intro" : "Fusce sem nibh, faucibus non ex vel, vestibulum dignissim nulla. Mauris eu felis ut mi dignissim rhoncus id ut lacus.",
+            "fullText" : "<p>Quisque blandit hendrerit tellus, at elementum turpis tempus a. Aenean sit amet molestie quam, vel tempor sem. Ut ullamcorper erat eget velit dapibus, id consectetur quam lobortis. Ut at libero felis. Sed suscipit tincidunt nunc, eget hendrerit est venenatis nec. In tempor nulla nisl, non fringilla quam porta eu. In sollicitudin justo orci, at tempus nunc mattis sit amet. Aliquam eget fermentum purus. Mauris quis ligula malesuada, euismod ligula in, mattis eros. Sed est sem, aliquet nec massa at, convallis volutpat dolor. Sed nec ante est. Duis mollis risus quis arcu faucibus scelerisque. Sed vitae lorem sit amet tellus vulputate vestibulum vel nec nibh. Fusce tincidunt est sapien, ut efficitur ante efficitur a. Proin sagittis aliquam nisl, id suscipit quam pretium et. </p><p>Ut ullamcorper tristique nulla, quis laoreet metus lacinia vitae. Mauris at sagittis nibh. Aliquam erat volutpat. Phasellus pulvinar, erat a lacinia bibendum, mi diam semper dui, a condimentum nisi tellus id odio. Sed id risus sodales magna pharetra gravida ut ac neque. Aliquam eget hendrerit lacus. Aenean nec fringilla quam. Nunc gravida vehicula justo, nec euismod nibh porttitor non. In hac habitasse platea dictumst. Nullam turpis est, finibus sit amet suscipit eget, lacinia et urna. Curabitur interdum accumsan sapien, vitae mattis odio gravida sit amet. Vestibulum sit amet mollis orci. Fusce facilisis risus eu odio tincidunt, efficitur tincidunt libero ornare. </p>",
+            "image": "003.jpg",
+            "publised": "2021-08-02 14:45:00"
+        },
+        {
+            "id": "1237",
+            "title": "Sed non libero enim.",
+            "intro" : "Donec consectetur molestie ante, a condimentum augue. Aenean luctus libero eget condimentum vehicula. Etiam porta finibus libero, in lacinia nisl dapibus nec.",
+            "fullText" : "<p>Nunc sodales sapien purus, a maximus ante commodo vel. Sed at nisl sed odio interdum dignissim. In quam libero, rhoncus non quam eget, ultricies pellentesque enim. Nullam ut orci vel magna viverra ultricies. Vestibulum justo felis, luctus rutrum commodo sed, faucibus in ligula. Sed sit amet consectetur dolor. Duis quis eleifend urna, quis mollis dolor. Phasellus eu felis vel ex condimentum facilisis sed sed arcu.</p><p> Pellentesque non iaculis odio. Aliquam et fermentum ex, vel tempus sem. Ut a sollicitudin ligula. In a elementum nisi. Proin semper tortor tellus, viverra sollicitudin neque auctor et. Maecenas vitae finibus felis. Aenean nec ornare est, et pharetra nibh. Etiam nec tincidunt augue. </p><br><p>Duis pharetra sollicitudin metus nec pellentesque. Nunc faucibus id ex ac facilisis. Nullam vel lorem risus. Morbi ultricies ultricies libero, sit amet sollicitudin arcu ultricies suscipit. Fusce eu pellentesque ante, sit amet pharetra nulla. Cras luctus porttitor purus, a fringilla leo accumsan non. Duis sed venenatis purus. Integer ultrices mi et felis iaculis laoreet. Cras feugiat justo id justo egestas gravida. In pretium, magna vitae lobortis mattis, sem mi eleifend purus, et imperdiet est est quis nibh. Praesent auctor, dolor vitae tincidunt porttitor, leo libero tristique purus, nec viverra dolor velit at risus. Aenean faucibus nulla eu arcu tincidunt maximus. Vivamus fringilla aliquet placerat. Morbi sit amet varius libero. Ut quis sodales est. </p>",
+            "image": "004.jpg",
+            "publised": "2021-08-11 13:34:00"
+        },
+        {
+            "id": "1238",
+            "title": "Duis id tempus sem.",
+            "intro" : "Sed sed lorem ac nisl luctus viverra a non diam. Phasellus pretium dignissim magna ac tincidunt. In hac habitasse platea dictumst. Nam vitae egestas nunc.",
+            "fullText" : "<p>Proin accumsan porta tortor, in sollicitudin nisi finibus eget. Morbi a tristique ex. Nam non ultrices orci. Mauris at diam ante. Aenean a vulputate purus. Nam auctor facilisis interdum. Maecenas a porta sem. Maecenas ac velit a nisl pharetra tincidunt pretium sit amet est. Nulla laoreet pretium lectus nec tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt, velit non cursus sodales, purus mi luctus lorem, vitae elementum sem mauris vehicula leo. </p><p>Integer eget accumsan mauris. Duis volutpat auctor bibendum. Integer dolor turpis, vulputate a arcu eu, tempor ultricies ligula. Nulla malesuada ipsum lectus, sed tincidunt nunc sodales et. Nullam justo velit, pharetra non leo ut, pretium volutpat augue. Morbi venenatis, sem sed pharetra condimentum, odio massa volutpat mi, sed ultricies tortor justo in eros. In sit amet felis lacus. Curabitur id dictum risus, ut fringilla mi. Donec nec euismod eros, eu mattis nunc. Phasellus tincidunt eros ipsum, commodo mollis erat rutrum sed. Quisque sit amet elit non dui pretium ullamcorper at eget justo. Suspendisse potenti. Nulla lobortis orci id lobortis ullamcorper. Sed scelerisque risus ac tellus tincidunt laoreet. Ut tristique varius justo id rhoncus. Curabitur euismod odio urna, nec pulvinar purus cursus a. Etiam ac fringilla est, sed interdum felis. Mauris eleifend luctus dui et tincidunt. Nullam sollicitudin neque erat, eu luctus ex tincidunt in. Integer id maximus eros. Proin vestibulum enim dolor. Proin nisl justo, maximus sit amet erat nec, suscipit accumsan mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc finibus ipsum felis, quis egestas orci consectetur sit amet. </p>",
+            "image": "005.jpg",
+            "publised": "2021-08-27 12:54:00"
+        },
+        {
+            "id": "1239",
+            "title": "Vestibulum a nunc sit amet erat aliquam.",
+            "intro" : "Cras consequat ornare neque, id gravida dolor viverra a. Pellentesque eu dolor auctor, vehicula est at, laoreet enim. Nam nisl libero.",
+            "fullText" : "<p>Praesent eget est ut lorem cursus tincidunt. Nullam consequat hendrerit sapien eu rhoncus. Donec vulputate ac enim a egestas. Praesent tempor ut ante eget blandit. Curabitur malesuada imperdiet arcu, egestas blandit purus. Quisque sed gravida lacus, quis mollis turpis. Sed pretium dui sed dui suscipit iaculis. Aliquam finibus non est at blandit. Aliquam ac mi elit. Nam id feugiat mi, vitae ullamcorper ipsum. </p><p>Quisque vitae finibus augue. Nunc accumsan sodales consequat. Nunc non congue quam. Fusce porttitor justo vitae metus molestie pulvinar. Nunc laoreet, urna vitae ornare tincidunt, ante justo elementum leo, ac elementum elit orci id risus. Curabitur ultrices ipsum quis sapien gravida, sed pharetra nisi scelerisque. Curabitur pulvinar nisl in felis accumsan, in ornare turpis vulputate. Curabitur turpis lacus, lacinia et congue sit amet, imperdiet in arcu. </p>",
+            "image": "006.jpg",
+            "publised": "2021-09-06 17:00:00"
+        },
+        {
+            "id": "1240",
+            "title": "Duis sed tristique felis.",
+            "intro" : "Cras erat est, blandit ut nulla gravida, mollis pulvinar libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "fullText" : "<p>Praesent gravida molestie erat. Maecenas nec tristique enim. Fusce diam lorem, facilisis ut ante vel, porttitor vulputate risus. Vestibulum finibus justo ac placerat volutpat. Praesent lorem ipsum, aliquet ut augue id, posuere lacinia velit. Pellentesque lacus nunc, lacinia non dapibus id, dictum eget odio. Donec elementum diam vitae tellus facilisis, a lacinia odio fermentum. Donec iaculis risus imperdiet, maximus nisl non, eleifend mauris. Aliquam dolor nisl, ultricies sit amet nulla et, euismod gravida mi. In eget enim ut nisl rhoncus aliquet et a mi. </p><p>Ut tempor elit vitae feugiat semper. Donec gravida lorem non turpis suscipit, sit amet mattis ipsum condimentum. Quisque imperdiet quam vel euismod semper. Quisque vitae tincidunt neque. Mauris faucibus dictum sapien. Cras dui mauris, dignissim non dolor ac, gravida bibendum mauris. Curabitur &amp; lacinia dolor. Ut tincidunt vel turpis at elementum. Donec lacinia malesuada purus, id mollis lacus mollis eget. Nullam porta neque id leo accumsan aliquet. Mauris facilisis, mi ac finibus commodo, arcu sapien commodo libero, id blandit augue tortor in lacus. Nulla eleifend lacinia dolor, eu condimentum quam interdum ullamcorper. Quisque vitae efficitur ipsum. Nulla facilisi. Sed rutrum enim a lectus posuere faucibus. </p>",
+            "image": "007.jpg",
+            "publised": "2021-10-22 14:34:00"
+        }
+    ] 
+}
+ 
